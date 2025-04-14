@@ -1,0 +1,27 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing:boder-box;
+}
+body{
+    background-image:url("pic3.jpg");
+    background-size:cover;
+    height:97%;
+}
+header{
+    height:15vh;
+    background-color: aqua;
+}
+nav ul li{
+    margin-top:10px;
+    margin-left:30px;
+    font-size:30px;
+    float:right;
+    color: #fff;
+}
+heading h1{
+    margin-top:150px;
+    margin-left:50px;
+    font-size:50px;
+    color:rgb(194,195,200)
+}
